@@ -489,9 +489,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📬 Contato
 
-- **Autor:** [Seu Nome]
-- **LinkedIn:** [Seu LinkedIn]
-- **GitHub:** [Seu GitHub]
+- **Autor:** Jean Navarro
+- **LinkedIn:** [linkedin.com/in/jean-navarro](https://www.linkedin.com/in/jean-navarro-211759235/)
+- **GitHub:** [github.com/jeannavarro2](https://github.com/jeannavarro2)
 
 ---
 
