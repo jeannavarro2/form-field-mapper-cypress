@@ -1,0 +1,27 @@
+{
+  "name": "form-field-mapper-cypress",
+  "version": "1.0.0",
+  "description": "Utilitário educativo que mapeia automaticamente campos de formulário e gera um pré-teste Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --spec cypress/e2e/form_mapper_public.cy.js --headed"
+  },
+  "keywords": [
+    "cypress",
+    "qa",
+    "automation",
+    "form-mapper",
+    "testing",
+    "e2e"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/form-field-mapper-cypress.git"
+  }
+}
