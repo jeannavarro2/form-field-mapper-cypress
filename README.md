@@ -107,7 +107,7 @@ Se não tiver, baixe em: https://git-scm.com/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/form-field-mapper-cypress.git
+git clone https://github.com/jeannavarro2/form-field-mapper-cypress.git
 
 # 2. Entre na pasta do projeto
 cd form-field-mapper-cypress
@@ -507,7 +507,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 **Quick Start:**
 ```bash
-git clone https://github.com/YOUR_USER/form-field-mapper-cypress.git
+git clone https://github.com/jeannavarro2/form-field-mapper-cypress.git
 cd form-field-mapper-cypress
 npm install
 npm run cy:run
